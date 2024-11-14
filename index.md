@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Aufgabe 1
+- [ ] Aufgabe 2
+- [ ] Aufgabe 3
